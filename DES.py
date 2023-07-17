@@ -1,3 +1,6 @@
+
+# Implementation of the DES encryption using Python 
+
 def expand(x: int) -> int:
     table = [1, 2, 4, 3, 4, 3, 5, 6]
 
